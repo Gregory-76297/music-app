@@ -1,1 +1,53 @@
-
+{
+  "best": [
+    {
+      "img": "https://i.ytimg.com/vi/kPa7bsKwL-c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBsDeSW85bWCs6dFX68iDmgMrcriw",
+      "txt": "Top songs 2025",
+      "url": "https://www.youtube.com/watch?v=kPa7bsKwL-c&list=PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU&pp=iAQB8AUB"
+    },
+    {
+      "img": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw5hj2BfQ7ZCPYyMHBhj3SiR5AYA",
+      "txt": "Blinding Lights - The Weeknd",
+      "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+    },
+    {
+      "img": "https://example.com/best3.jpg",
+      "txt": "Top Pick 3",
+      "url": "https://example.com/play3"
+    }
+  ],
+  "trending": [
+    {
+      "img": "https://example.com/trend1.jpg",
+      "txt": "Trending Now 1",
+      "url": "https://example.com/play4"
+    },
+    {
+      "img": "https://example.com/trend2.jpg",
+      "txt": "Trending Now 2",
+      "url": "https://example.com/play5"
+    },
+    {
+      "img": "https://example.com/trend3.jpg",
+      "txt": "Trending Now 3",
+      "url": "https://example.com/play6"
+    }
+  ],
+  "seasonal": [
+    {
+      "img": "https://example.com/season1.jpg",
+      "txt": "Summer Vibes 1",
+      "url": "https://example.com/play7"
+    },
+    {
+      "img": "https://example.com/season2.jpg",
+      "txt": "Summer Vibes 2",
+      "url": "https://example.com/play8"
+    },
+    {
+      "img": "https://example.com/season3.jpg",
+      "txt": "Summer Vibes 3",
+      "url": "https://example.com/play9"
+    }
+  ]
+}
